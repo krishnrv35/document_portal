@@ -4,16 +4,10 @@
 
 ```bash
 # Create a new project folder
-mkdir llmops
+mkdir <project_folder_name>
 
 # Move into the project folder
-cd llmops
-
-# Create a new project folder
-mkdir document_loader
-
-# Move into the project folder
-cd document_loader
+cd <project_folder_name>
 
 # Open the folder in VS Code
 code .
@@ -40,7 +34,7 @@ git commit -m "<write your commit message>"
 git push
 
 # Cloning the repository
-git clone https://github.com/krishnrv35/document_portal.git
+git clone https://github.com/sunnysavita10/document_portal.git
 ```
 ## Minimum Requirements for the Project
 
